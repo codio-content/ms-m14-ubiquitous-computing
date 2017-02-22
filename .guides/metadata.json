@@ -1,0 +1,103 @@
+{
+ "sections": [
+  {
+   "id": "3eacb62e-e73a-4d88-50c1-684a0ee8ad27",
+   "title": "Computers are Everywhere",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Computers-are-Everywhere-3eac.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "0dcd8df9-47be-3548-7aa8-8f870e16111b",
+   "title": "Ubiquitous Computing",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ubiquitous-Computing-0dcd.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "4dc84190-6d04-8b15-0040-e26905357e33",
+   "title": "Ubiquitous Computing Review ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ubiquitous-Computing-Review--4dc8.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "d7af3f4f-0f1d-dce4-a7ac-6e8bc5ffa9c8",
+   "title": "RFID - Ubiquitous Computing Example",
+   "files": [],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/RFID---Ubiquitous-Computing-Example-d7af.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "9176244b-b4cd-1e2b-a3aa-ea5d5d2957c1",
+   "title": "Where are they?",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Where-are-they--9176.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "781669c4-005f-b094-6324-ff825d0657af",
+   "title": "Using the Data",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Using-the-Data-7816.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "c448e25e-ae8f-9ab0-0a15-ab13b29a54a7",
+   "title": "RFID Review ",
+   "files": [],
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/RFID-Review--c448.md",
+   "chapter": false,
+   "reset": [],
+   "teacherOnly": false
+  },
+  {
+   "id": "a9de34f2-5a0f-69ec-3d39-96ca88181be6",
+   "title": "Ubiquitous Computing Challenge",
+   "files": [
+    {
+     "path": "#tabs",
+     "action": "close"
+    }
+   ],
+   "layout": "1-panel",
+   "path": [],
+   "type": "markdown",
+   "content-file": ".guides/content/Ubiquitous-Computing-Challenge-a9de.md",
+   "chapter": true,
+   "reset": [],
+   "teacherOnly": false
+  }
+ ],
+ "theme": "light",
+ "scripts": [],
+ "lexikonTopic": ""
+}

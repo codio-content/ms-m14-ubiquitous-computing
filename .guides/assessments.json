@@ -1,0 +1,234 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1287869727",
+  "source": {
+   "name": "UBquiz1",
+   "showName": false,
+   "instructions": "",
+   "points": "5",
+   "showValues": false,
+   "text": "Ubiquitous computing is a concept where computing is made to appear <<<anytime>>> and <<<everywhere>>>. \nUbiquitous computing can occur using any <<<device>>>, in any <<<location>>>, and in any <<<format>>>.",
+   "tokens": {
+    "blank": [
+     "anytime",
+     "everywhere",
+     "device",
+     "location",
+     "format"
+    ],
+    "text": [
+     "Ubiquitous computing is a concept where computing is made to appear ",
+     0,
+     " and ",
+     0,
+     ". \nUbiquitous computing can occur using any ",
+     0,
+     ", in any ",
+     0,
+     ", and in any ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1607461002",
+  "source": {
+   "name": "UBquiz2",
+   "showName": false,
+   "instructions": "",
+   "points": "2",
+   "showValues": false,
+   "text": "The governers driver was going <<<91>>> in a 65 mile per hour zone. \nWe know his speed because his car had a black box.  Another name for black box is <<<event data recorder>>> or (EDR).",
+   "tokens": {
+    "blank": [
+     "91",
+     "event data recorder"
+    ],
+    "text": [
+     "The governers driver was going ",
+     0,
+     " in a 65 mile per hour zone. \nWe know his speed because his car had a black box.  Another name for black box is ",
+     0,
+     " or (EDR)."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-2097870829",
+  "source": {
+   "name": "UBquiz3",
+   "showName": false,
+   "instructions": "What year were black-boxes mandatory in vehicles?",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "1d8741b1-7120-7b9d-f7ca-445498535cae",
+     "correct": false,
+     "answer": "1995"
+    },
+    {
+     "_id": "722e0d73-9628-88e7-d247-0df41260f569",
+     "correct": false,
+     "answer": "2004"
+    },
+    {
+     "_id": "77a3e710-90fc-175c-9606-e1357dcda1e5",
+     "correct": false,
+     "answer": "2007"
+    },
+    {
+     "_id": "34009dfc-6e44-7932-ebca-1c6b529ed1f7",
+     "correct": true,
+     "answer": "2011"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-645087646",
+  "source": {
+   "name": "UBquiz4",
+   "showName": false,
+   "instructions": "EDRs capture information about speed, braking time, turn signal status, and\nseat belts",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "9fe75858-1ed0-5798-fc1c-21b770ae6668",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "35504af4-1654-6c22-c399-4ea10b2ef7e6",
+     "correct": false,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-4098918088",
+  "source": {
+   "name": "UBquiz5",
+   "showName": false,
+   "instructions": "A New York court ruled you need a search warrant to read a cars black-box.\n",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "91fb2d86-ec38-3764-c072-de90fc7b9d70",
+     "correct": false,
+     "answer": "True"
+    },
+    {
+     "_id": "0d8eecab-6567-7148-d02f-79c174699644",
+     "correct": true,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-279400370",
+  "source": {
+   "name": "RFID1",
+   "showName": false,
+   "instructions": "",
+   "points": "1",
+   "showValues": false,
+   "text": "RFID stands for <<<Radio-Frequency Identification>>>\nRFIDs have a small <<<chip>>> and <<<antenna>>>.",
+   "tokens": {
+    "blank": [
+     "Radio-Frequency Identification",
+     "chip",
+     "antenna"
+    ],
+    "text": [
+     "RFID stands for ",
+     0,
+     "\nRFIDs have a small ",
+     0,
+     " and ",
+     0,
+     "."
+    ]
+   }
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-3676513959",
+  "source": {
+   "name": "RFID2",
+   "showName": false,
+   "instructions": "RFID just holds data in a small mobile way that can easily be accessed. Once the data is accessed any type of computational method can be used on that data.",
+   "points": "1",
+   "incorrectPoints": "0",
+   "multipleResponse": false,
+   "answers": [
+    {
+     "_id": "e6a21e3c-858e-9817-cfc5-b5cd597cef75",
+     "correct": true,
+     "answer": "True"
+    },
+    {
+     "_id": "6226ed85-3515-2932-e087-18fd6ab936a8",
+     "correct": false,
+     "answer": "False"
+    }
+   ]
+  }
+ },
+ {
+  "type": "multiple-choice",
+  "taskId": "multiple-choice-1554118643",
+  "source": {
+   "name": "RFID3",
+   "showName": false,
+   "instructions": "Mark all of the options below where a RFID tag could be used",
+   "points": "5",
+   "incorrectPoints": "0",
+   "multipleResponse": true,
+   "answers": [
+    {
+     "_id": "1038149e-d91c-0b73-3d6a-96a6fb93159b",
+     "correct": true,
+     "answer": "Access Cards for buildings"
+    },
+    {
+     "_id": "ee32202f-abed-9de6-a2f6-f3093d0f53fe",
+     "correct": true,
+     "answer": "Kiosks for rentals"
+    },
+    {
+     "_id": "55040f16-b5bf-1473-520e-22d7f93f8e3f",
+     "correct": true,
+     "answer": "Race Participants Tags"
+    },
+    {
+     "_id": "4f5bc62e-82fb-3511-f2ee-8d563e1c84a1",
+     "correct": true,
+     "answer": "Packages in Mail"
+    },
+    {
+     "_id": "dd75c0e8-b231-9462-d47a-3cb2de5679b6",
+     "correct": true,
+     "answer": "Medical wrist bands"
+    }
+   ]
+  }
+ }
+]
